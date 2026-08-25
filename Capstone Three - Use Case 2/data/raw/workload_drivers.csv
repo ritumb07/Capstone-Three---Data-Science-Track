@@ -1,0 +1,65 @@
+fiscal_year,dept_id,dept_name,workload_metric,workload_value,authorized_fte
+2019,DEPT-01,Public Safety,calls_for_service,213871.0,1965.2
+2020,DEPT-01,Public Safety,calls_for_service,219228.0,2011.0
+2021,DEPT-01,Public Safety,calls_for_service,218218.0,2003.5
+2022,DEPT-01,Public Safety,calls_for_service,214952.0,2053.5
+2023,DEPT-01,Public Safety,calls_for_service,220327.0,2093.8
+2024,DEPT-01,Public Safety,calls_for_service,218434.0,2174.9
+2025,DEPT-01,Public Safety,calls_for_service,220143.0,2206.5
+2026,DEPT-01,Public Safety,calls_for_service,228308.0,2200.3
+2019,DEPT-02,Health & Human Services,caseload_clients,97287.0,2586.2
+2020,DEPT-02,Health & Human Services,caseload_clients,106252.0,2652.1
+2021,DEPT-02,Health & Human Services,caseload_clients,113384.0,2755.8
+2022,DEPT-02,Health & Human Services,caseload_clients,118187.0,2772.8
+2023,DEPT-02,Health & Human Services,caseload_clients,124829.0,2768.7
+2024,DEPT-02,Health & Human Services,caseload_clients,133195.0,2835.2
+2025,DEPT-02,Health & Human Services,caseload_clients,130796.0,2880.2
+2026,DEPT-02,Health & Human Services,caseload_clients,137085.0,2930.5
+2019,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4281.0,1667.8
+2020,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4191.0,1671.0
+2021,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4214.0,1667.3
+2022,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4339.0,1651.0
+2023,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4388.0,1657.7
+2024,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4273.0,1629.8
+2025,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4295.0,1683.2
+2026,DEPT-03,Transportation & Infrastructure,lane_miles_maintained,4367.0,1644.6
+2019,DEPT-04,Education,student_enrollment,83582.0,2250.7
+2020,DEPT-04,Education,student_enrollment,84424.0,2305.5
+2021,DEPT-04,Education,student_enrollment,83950.0,2334.2
+2022,DEPT-04,Education,student_enrollment,86378.0,2335.3
+2023,DEPT-04,Education,student_enrollment,86678.0,2353.0
+2024,DEPT-04,Education,student_enrollment,88659.0,2369.5
+2025,DEPT-04,Education,student_enrollment,91450.0,2370.1
+2026,DEPT-04,Education,student_enrollment,90118.0,2457.5
+2019,DEPT-05,Administration & Finance,transactions_processed,1461466.0,792.2
+2020,DEPT-05,Administration & Finance,transactions_processed,1488772.0,802.5
+2021,DEPT-05,Administration & Finance,transactions_processed,1507033.0,811.9
+2022,DEPT-05,Administration & Finance,transactions_processed,1535976.0,823.8
+2023,DEPT-05,Administration & Finance,transactions_processed,1494274.0,856.9
+2024,DEPT-05,Administration & Finance,transactions_processed,1519758.0,874.7
+2025,DEPT-05,Administration & Finance,transactions_processed,1508265.0,879.0
+2026,DEPT-05,Administration & Finance,transactions_processed,1518150.0,908.9
+2019,DEPT-06,Environment & Natural Resources,permits_issued,12541.0,644.4
+2020,DEPT-06,Environment & Natural Resources,permits_issued,12566.0,645.9
+2021,DEPT-06,Environment & Natural Resources,permits_issued,12693.0,664.1
+2022,DEPT-06,Environment & Natural Resources,permits_issued,12403.0,657.0
+2023,DEPT-06,Environment & Natural Resources,permits_issued,12106.0,652.2
+2024,DEPT-06,Environment & Natural Resources,permits_issued,12092.0,642.3
+2025,DEPT-06,Environment & Natural Resources,permits_issued,12095.0,628.6
+2026,DEPT-06,Environment & Natural Resources,permits_issued,12031.0,645.6
+2019,DEPT-07,Information Technology,supported_endpoints,19585.0,1050.8
+2020,DEPT-07,Information Technology,supported_endpoints,20759.0,1077.0
+2021,DEPT-07,Information Technology,supported_endpoints,21947.0,1128.0
+2022,DEPT-07,Information Technology,supported_endpoints,24084.0,1197.5
+2023,DEPT-07,Information Technology,supported_endpoints,26314.0,1241.7
+2024,DEPT-07,Information Technology,supported_endpoints,28432.0,1295.3
+2025,DEPT-07,Information Technology,supported_endpoints,30593.0,1397.1
+2026,DEPT-07,Information Technology,supported_endpoints,31962.0,1459.2
+2019,DEPT-08,Parks & Recreation,park_visitors,2213893.0,419.4
+2020,DEPT-08,Parks & Recreation,park_visitors,2251806.0,423.6
+2021,DEPT-08,Parks & Recreation,park_visitors,2309305.0,421.1
+2022,DEPT-08,Parks & Recreation,park_visitors,2406078.0,432.9
+2023,DEPT-08,Parks & Recreation,park_visitors,2502724.0,435.0
+2024,DEPT-08,Parks & Recreation,park_visitors,2582136.0,437.0
+2025,DEPT-08,Parks & Recreation,park_visitors,2642424.0,458.9
+2026,DEPT-08,Parks & Recreation,park_visitors,2726754.0,459.0

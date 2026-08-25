@@ -1,0 +1,30 @@
+project_id,project_name,dept_id,fiscal_year,planned_spend,actual_spend,total_project_budget,pct_complete,status
+CAP-001,Regional Data Center Modernization,DEPT-01,2020,3009.1,2782.2,26478.7,24.2,In Progress
+CAP-001,Regional Data Center Modernization,DEPT-01,2021,9365.5,9861.6,26478.7,48.1,In Progress
+CAP-001,Regional Data Center Modernization,DEPT-01,2022,8471.1,8700.9,26478.7,77.9,In Progress
+CAP-001,Regional Data Center Modernization,DEPT-01,2023,5633.0,5516.9,26478.7,100.0,Complete
+CAP-002,Bridge Rehabilitation Program,DEPT-02,2022,3270.8,3391.8,18627.0,32.0,In Progress
+CAP-002,Bridge Rehabilitation Program,DEPT-02,2023,4619.7,3465.4,18627.0,65.5,In Progress
+CAP-002,Bridge Rehabilitation Program,DEPT-02,2024,10736.5,10769.7,18627.0,99.4,Complete
+CAP-003,Emergency Dispatch System Upgrade,DEPT-03,2020,12736.6,11073.2,30614.0,36.9,In Progress
+CAP-003,Emergency Dispatch System Upgrade,DEPT-03,2021,17489.5,17704.3,30614.0,65.1,In Progress
+CAP-003,Emergency Dispatch System Upgrade,DEPT-03,2022,387.9,385.5,30614.0,99.2,Complete
+CAP-004,School Facilities Renewal,DEPT-04,2020,14963.8,15543.6,15838.7,54.5,In Progress
+CAP-004,School Facilities Renewal,DEPT-04,2021,874.9,985.9,15838.7,100.0,Complete
+CAP-005,Water Treatment Plant Expansion,DEPT-06,2021,2951.5,3082.8,14254.9,31.8,In Progress
+CAP-005,Water Treatment Plant Expansion,DEPT-06,2022,4779.1,4627.5,14254.9,62.8,In Progress
+CAP-005,Water Treatment Plant Expansion,DEPT-06,2023,6524.2,6398.0,14254.9,100.0,Complete
+CAP-006,Fleet Electrification Initiative,DEPT-07,2023,19121.0,18943.3,22364.8,44.5,In Progress
+CAP-006,Fleet Electrification Initiative,DEPT-07,2024,3243.8,3681.0,22364.8,100.0,Complete
+CAP-007,Public Records Digitization,DEPT-08,2021,6700.4,6307.9,26200.0,48.1,In Progress
+CAP-007,Public Records Digitization,DEPT-08,2022,19499.6,19794.0,26200.0,96.8,Complete
+CAP-008,Highway Corridor Widening,DEPT-01,2023,9470.1,10108.4,23104.5,28.4,In Progress
+CAP-008,Highway Corridor Widening,DEPT-01,2024,3979.0,3638.9,23104.5,55.1,In Progress
+CAP-008,Highway Corridor Widening,DEPT-01,2025,1779.8,1821.6,23104.5,75.0,In Progress
+CAP-008,Highway Corridor Widening,DEPT-01,2026,7875.6,4835.9,23104.5,95.7,In Progress
+CAP-009,Parks Trail Network Expansion,DEPT-02,2024,12938.5,12063.0,22980.3,48.0,In Progress
+CAP-009,Parks Trail Network Expansion,DEPT-02,2025,10041.8,10558.4,22980.3,100.0,Complete
+CAP-010,Cybersecurity Infrastructure Program,DEPT-03,2022,2557.5,2050.6,10796.3,26.3,In Progress
+CAP-010,Cybersecurity Infrastructure Program,DEPT-03,2023,2425.4,2188.1,10796.3,52.2,In Progress
+CAP-010,Cybersecurity Infrastructure Program,DEPT-03,2024,2141.1,2341.8,10796.3,73.4,In Progress
+CAP-010,Cybersecurity Infrastructure Program,DEPT-03,2025,3672.3,3050.3,10796.3,100.0,Complete
